@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6Ug5pBwDAo90hHo09P5Jrw?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <img src="default.png" alt="3wpty">
 </div>
 
 
@@ -10,9 +10,11 @@
 
 ### My links
 
-![discord](https://discord.gg/zZMmB5CjT5)
-![twitch](https://twitch.tv/3wpty)
-![spotify](https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h)
+![Discord](https://discord.gg/zZMmB5CjT5)
+
+![Spotify](https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h)
+
+![Spotify Playlist](https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h)
 
 ---
 
