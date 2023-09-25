@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="default.png" alt="3wpty">
+    <img src="default.jpg" alt="3wpty">
 </div>
 
 
