@@ -6,13 +6,7 @@
 
 ---
 
-### Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mal5aycec7sxhzceeguyx7d8h&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mal5aycec7sxhzceeguyx7d8h&redirect=true)
-
----
-
-### My links
+### linksss
 
 ![Discord](https://dsc.gg/prdx)
 
