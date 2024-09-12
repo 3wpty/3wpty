@@ -8,6 +8,6 @@
 
 ### linksss
 
-![Discord](https://dsc.gg/prdx)
+![discord](https://dsc.gg/prdx)
 
-![Spotify]([https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h](https://open.spotify.com/playlist/6Ug5pBwDAo90hHo09P5Jrw?si=58b9858573eb49bf))
+![spotify]([https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h](https://open.spotify.com/playlist/6Ug5pBwDAo90hHo09P5Jrw?si=58b9858573eb49bf))
