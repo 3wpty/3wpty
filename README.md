@@ -1,4 +1,4 @@
-## 18 yo HSE SPb student
+## \-\_\-
 
 <div id="header" align="center">
     <img src="default.jpg" alt="3wpty">
@@ -14,6 +14,6 @@
 
 ### My links
 
-![Discord](https://discord.gg/zZMmB5CjT5)
+![Discord](https://dsc.gg/prdx)
 
 ![Spotify]([https://open.spotify.com/user/mal5aycec7sxhzceeguyx7d8h](https://open.spotify.com/playlist/6Ug5pBwDAo90hHo09P5Jrw?si=58b9858573eb49bf))
